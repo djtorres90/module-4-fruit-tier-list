@@ -1,0 +1,16 @@
+.card {
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.card h3 {
+  color: var(--text-h);
+  margin: 0 0 0.5rem;
+}
+
+.card ul,
+.card ol {
+  margin: 0;
+  padding-left: 1.5rem;
+}

@@ -1,0 +1,11 @@
+.tutorial {
+  margin-inline: auto;
+  padding: 0 1rem 2rem;
+  text-align: left;
+  width: min(100% - 2rem, 56rem);
+}
+
+.fruit-tiers {
+  display: grid;
+  gap: 0.75rem;
+}
